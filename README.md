@@ -13,4 +13,4 @@ Activity Label is 1:Running 2:Jumping 3:Walking
 
 The databse is named group2 and needs to be placed at sdcard/Android/Data/CSE535_ASSIGNMENT3.
 
-![Screenshot of the app](AppSS1.png)
+![alt text](image.png)
